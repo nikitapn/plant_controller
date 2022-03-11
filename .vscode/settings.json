@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"ds18b20.h": "c",
+		"uart.h": "c",
+		"modbus.h": "c",
+		"os.h": "c",
+		"lcd_menu.h": "c",
+		"data.h": "c",
+		"fixed_point.h": "c",
+		"ds1307.h": "c",
+		"timers.h": "c",
+		"i2c.h": "c"
+	}
+}
